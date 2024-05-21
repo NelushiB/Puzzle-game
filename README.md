@@ -1,4 +1,4 @@
 Puzzle Game
 
-Demo:
+Demo: https://nelushib.github.io/Puzzle-game/
 
